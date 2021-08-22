@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/timeseries.cpp.o -c /home/liron/ex6_new/timeseries.cpp",
+  "file": "/home/liron/ex6_new/timeseries.cpp"
+},
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/anomaly_detection_util.cpp.o -c /home/liron/ex6_new/anomaly_detection_util.cpp",
+  "file": "/home/liron/ex6_new/anomaly_detection_util.cpp"
+},
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/SimpleAnomalyDetector.cpp.o -c /home/liron/ex6_new/SimpleAnomalyDetector.cpp",
+  "file": "/home/liron/ex6_new/SimpleAnomalyDetector.cpp"
+},
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/MainTrain.cpp.o -c /home/liron/ex6_new/MainTrain.cpp",
+  "file": "/home/liron/ex6_new/MainTrain.cpp"
+},
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/HybridAnomalyDetector.cpp.o -c /home/liron/ex6_new/HybridAnomalyDetector.cpp",
+  "file": "/home/liron/ex6_new/HybridAnomalyDetector.cpp"
+},
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/minCircle.cpp.o -c /home/liron/ex6_new/minCircle.cpp",
+  "file": "/home/liron/ex6_new/minCircle.cpp"
+},
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/CLI.cpp.o -c /home/liron/ex6_new/CLI.cpp",
+  "file": "/home/liron/ex6_new/CLI.cpp"
+},
+{
+  "directory": "/home/liron/ex6_new/build",
+  "command": "/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/a.out.dir/Server.cpp.o -c /home/liron/ex6_new/Server.cpp",
+  "file": "/home/liron/ex6_new/Server.cpp"
+}
+]
